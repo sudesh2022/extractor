@@ -40,16 +40,16 @@ keywords_list = [[  "Development", "Secure","Software","Custom Secure Developmen
 [ "Container Security", "Container","Docker","Kubernettes","Node","Cluster","Pod"]]
 #auditAreaList =  ["Integrated Service Management","System and Application Configuration","Identification and Access Management","Data Integrity and Protection","Inventory Management","Security Assessment","Media Protection","Network Security","Container Security"]
 auditAreaList = ["Is System and Application configuration in scope ?",
-"Is Identification and Access management in scope ?",
-"Is Data Integrity and Protection in scope ?",
-"Is Inventory Management in scope ?",
-"Is Integrated Service Management in scope ?",
-"Is Security Assessment in scope ?",
-"Is Media Protection in scope ?",
-"Is Network security in scope ?",
-"Is Container security in scope ?",
-"Is Patch Management in scope ?",
-"Is Endpoint Security in scope ?"]
+                 "Is Identification and Access management in scope ?",
+                  "Is Data Integrity and Protection in scope ?",
+                  "Is Inventory Management in scope ?",
+                  "Is Integrated Service Management in scope ?",
+                  "Is Security Assessment in scope ?",
+                  "Is Media Protection in scope ?",
+                  "Is Network security in scope ?",
+                  "Is Container security in scope ?",
+                  "Is Patch Management in scope ?",
+                   "Is Endpoint Security in scope ?"]
 #keywords_list = [["hardware","data center"],['software','testing']]
 #path = r"C:\Users\0036LE744\Downloads\MLS-C01-demo.pdf"
 path = "auditfiles/document_2.pdf"
