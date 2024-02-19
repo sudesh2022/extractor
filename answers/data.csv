@@ -1,5 +1,5 @@
-Question,Answer,Proof
-Is System and Application configuration in scope ?,No,"231. purposes of realizing the Measurements
+Question,keywords,Answer,Proof
+Is Integrated Service Management in scope ?,"client support,application testing and promotion,code promotion,code management,release management,Emergency changes,Measurements,Metrics,KPI,SLO,SLA,Client Secure Development,Custom Secure Development,Software,Secure,Development,",No,"231. purposes of realizing the Measurements
 230. purposes of realizing the Measurements
 229. purposes of realizing the Measurements
 228. purposes of realizing the Measurements
@@ -231,7 +231,7 @@ Is System and Application configuration in scope ?,No,"231. purposes of realizin
 2. development and analysis of the Annual IT Services Plan
 1. Upon development of Software by IBM for FAST SHOP, in which case FAST SHOP 
 "
-Is Identification and Access management in scope ?,No,"22. Assist the FAST SHOP in the licensing and acquisition of all the Equipment and 
+Is System and Application configuration in scope ?,"Password policy,SDLC,Land Scape,licensing,secure engineering,application code integrity and protection,remote connectivity controls and configurations,firewall rules and revalidations,protection from malicious code, hacks, and attacks,password and access configuration,Image and configuration hardening and validation,Maintenance of responsibilities for an Asset,Administrative of responsibilities for an Asset,Maintenance or Administrative of responsibilities for an Asset,Configured,Config,Benchmark,Harden,Hardening,Sec Config,",Yes,"22. Assist the FAST SHOP in the licensing and acquisition of all the Equipment and 
 21. the loss resulted from violation by IBM of the applicable third party licensing contract, 
 20. the buyer or licensee uses the product in accordance with the licensing agreement
 19. and copyrights held by, and to the conditions of, any licensing agreements with the applicable 
@@ -254,7 +254,7 @@ Is Identification and Access management in scope ?,No,"22. Assist the FAST SHOP 
 2. assistance in the reconfiguration of the source code
 1. Individually as for each Equipment, the respective configuration
 "
-Is Data Integrity and Protection in scope ?,No,"271.  Determination and solution of problems in applications of Annex J
+Is Identification and Access management in scope ?,"privileged assess,OffBoarding,OffBoarding,Termination,Role,Duties,Secret,Token,Factor,Password,Username,Authorized,Authorize,Access,Authenticate,Authentication,Identification,ID Auth,Timely Removal,Business Need,SOD,Separation of Duties,Least Privilege and Privilege Management,Individual User ID Management,Shared User ID,API keys,user ids,",Yes,"271.  Determination and solution of problems in applications of Annex J
 270.  Determination and solution of problems related to data processing 
 269. in which to become effective the termination
 268.  In the hypothesis of early termination of the 
@@ -526,7 +526,7 @@ Is Data Integrity and Protection in scope ?,No,"271.  Determination and solution
 2. the IBM user IDs as appropriate
 1. Management of Privilegated User IDs and IBM User IDs and 
 "
-Is Inventory Management in scope ?,Yes,"157. Approve the unexpired passwords and the exception requirements to 
+Is Data Integrity and Protection in scope ?,"leak,Requirements,Guidelines,Compliance,Logging,Monitoring,Access Log,Retain,Residual,Disposal,Dispose,Erasure,Erase,Encrypt,Encrypted,Encryption,DDUs,secure data restore,Data Movement,Direct Data Updates,Reuse,Retention,Protection,Privacy,Integrity,",Yes,"157. Approve the unexpired passwords and the exception requirements to 
 156. To identify and interpret legal, regulatory or other safety requirements 
 155. requirements of a Change Order and may include, as applicable: 
 154. requirements and confidentiality of IBM , including the signing of a confidentiality agreement with substantially 
@@ -684,7 +684,7 @@ Is Inventory Management in scope ?,Yes,"157. Approve the unexpired passwords and
 2. responsible for the integrity, confidentiality , conservation, safety and 
 1. physical integrity and logic, and periodically carry out inspections of compliance of the 
 "
-Is Integrated Service Management in scope ?,No,"130. routing of calls and access to the Televendas systems  and Software  in 
+Is Inventory Management in scope ?,"Acceptable Use Policy,Inventory Owner,PI/SPI/BSI,Access,Reside,Sensitive,Reconcile,Reconciliation,Label,Classification,Track,Asset,Inventory,",Yes,"130. routing of calls and access to the Televendas systems  and Software  in 
 129. premises against unauthorized access
 128. Manage the permanent and temporary access authorization 
 127. Develop and implement the access authorization process
@@ -815,9 +815,9 @@ Is Integrated Service Management in scope ?,No,"130. routing of calls and access
 2. inventory of the Software used for the provision of the Services, upon physical 
 1. IBM will control the inventory, observed the relevant specific provisions, contained in 
 "
-Is Security Assessment in scope ?,No,"1. Vulnerability Management Services  
+Is Security Assessment in scope ?,"remediation of vulnerabilities,Application scans,TCP/IP,Technical Testing,Vulnerability Management,Penetration Test,Code Scan,Security Testing,",No,"1. Vulnerability Management Services  
 "
-Is Media Protection in scope ?,No,"24.  Participate in the process of validation, trainings and homologation 
+Is Media Protection in scope ?,"workplace security,Training,Workstation,Laptop,Windows,Android,iPhone,iOS,Mobile,End point,Endpoint,Endpoint,",No,"24.  Participate in the process of validation, trainings and homologation 
 23. training where necessary, used in the provision of the Services
 22. personnel training of FAST SHOP
 21. Clause 11 , expenses related to travel, training costs, telephone and charges of 
@@ -842,7 +842,7 @@ Is Media Protection in scope ?,No,"24.  Participate in the process of validation
 2. IBM TIVOLI ENDPOINT MANAGER FOR LIFECYCLE MANAGEMENT 
 1. IBM Endpoint Manager for Power Management 
 "
-Is Network security in scope ?,No,"354. In the diagram above, where you read ""IBM Data Center"", read ""IBM Data 
+Is Network security in scope ?,"Diagram,Transit,Proxy,Boundary,VLAN,IP,Router,Route,Ruleset,Rule,Firewall,Egress,Ingress,Segregated,Segregation,Network Security,",No,"354. In the diagram above, where you read ""IBM Data Center"", read ""IBM Data 
 353. Data and voice links: The following diagram shows the scope that refers to the data 
 352. TELEVENDAS TRANSITION PLAN AND 
 351. with the constant transition plan of the Athink 3 of this Addition
@@ -1197,259 +1197,46 @@ Is Network security in scope ?,No,"354. In the diagram above, where you read ""I
 2. network security of the FAST SHOP
 1. Telecommunication network security  is not part of the scope of this Agreement, 
 "
-Is Container security in scope ?,Yes,
-Is Patch Management in scope ?,Yes,"231. purposes of realizing the Measurements
-230. purposes of realizing the Measurements
-229. purposes of realizing the Measurements
-228. purposes of realizing the Measurements
-227. purposes of realizing the Measurements
-226. purposes of realizing the Measurements
-225. purposes of realizing the Measurements
-224. purposes of realizing the Measurements
-223. purposes of realizing the Measurements
-222. purposes of realizing the Measurements
-221. purposes of realizing the Measurements
-220. purposes of realizing the Measurements
-219. purposes of realizing the Measurements
-218. purposes of realizing the Measurements
-217. purposes of realizing the Measurements
-216. purposes of realizing the Measurements
-215. purposes of realizing the Measurements
-214. purposes of realizing the Measurements
-213. purposes of realizing the Measurements
-212. purposes of realizing the Measurements
-211. purposes of realizing the Measurements
-210. purposes of realizing the Measurements
-209. purposes of realizing the Measurements
-208. purposes of realizing the Measurements
-207. purposes of realizing the Measurements
-206. purposes of realizing the Measurements
-205. purposes of realizing the Measurements
-204. purposes of realizing the Measurements
-203. purposes of realizing the Measurements
-202. purposes of realizing the Measurements
-201. purposes of realizing the Measurements
-200. purposes of realizing the Measurements
-199. purposes of realizing the Measurements
-198. purposes of realizing the Measurements
-197. purposes of realizing the Measurements
-196. purposes of realizing the Measurements
-195. purposes of realizing the Measurements
-194. purposes of realizing the Measurements
-193. at a certain measurement interval, the affected measurements will be transferred to 
-192. In case the minimum number of measurements of the Service Levels is not achieved 
-191. 9%, the minimum number of measurements in a measurement range should be 
-190. 99%, the minimum number of measurements in the measurement range should be 
-189. 90%, the minimum number of measurements in the measurement range should be 
-188. measurements in a given measurement range  to be 
-187. subject of the measurements mentioned in Annex B 
-186. For further clarity on the mechanics of the Indicators ' Measurements, the following 
-185. subject to Measurements with reference to a particular Relevant Measurement Period 
-184. Measurements will be able to result in the following findings with respect to the Relevant 
-183. In The Measurements of the Relevant Measurement Periods, they will be evaluated, 
-182. Measurements having per object the 12  Months immediately prior to that of the 
-181. This Indicator will submit to monthly Measurements, which will have per object  the Month 
-180. The Measurements will occur in the Measurement Moments, and will have per object 
-179. ""Periods of Measurement"" means the periods that constituted object of the Measurements
-178. ""Moment of Measurement"" means the moments that will occur the Measurements, as 
-177. The Measurements will occur in the 
-176. Sazonal Events, IBM is expected to maintain the metrics of Service Levels as stated in 
-175. applications: email, agenda, calendar, Coremetrics and in the 
-174. agreed applications: email, agenda, calendar, Coremetrics and in the applications 
-173.  The cost of travel and translating expenses will be agreed upon in advance 
-172. Any Claim concerning violation or alleged violation of legislation or law consumerist, 
-171. ""work hired "" for the FAST SHOP for the purposes of the applicable copyright legislation
-170. rights, under this Agreement and applicable legislation, from contesting the right of IBM 
-169. should be paid the respective taxpayer, as defined by applicable legislation
-168. a coherent manner and in accordance with applicable legislation
-167. tax, ascertained annually in accordance with the society-based legislation and the principles 
-166. legislation, be possible for the readjustment of prices at lower periodicity than that of the 
-165.  Provide the applications, database software and software that 
-164.  Provide Hardware platforms and operating software
-163. routing of calls and access to the Televendas systems  and Software  in 
-162. software tools and systems and network infrastructure devices under 
-161. Install, test, and maintain antivirus software on the servers and 
-160. With respect to the operating systems and software tools managed by 
-159. security to all Equipment, Systems, Software, networks, telephony or other 
-158. Equipment, systems, Software, networks, telephony or other contemplated in the scope 
-157. Equipment Management and User Software Services 
-156.  Provide the Equipment and Software required for the opening of 
-155. Annex J and too many additional Softwares contained in the 
-154.  Effecting the maintenance and updating of the Software defined in 
-153.  Provide the management of patches and distribution of Software
-152. Equipment Management and User Software Services 
-151.  Make available equipment and Software, contained in the scope 
-150. Equipment Management and User Software Services 
-149. of the Software or Hardware, so that it offers a solution to the problem faced
-148.  Installation of additional Software to those provided for in Annex J, in the User 
-147.  Administration of the Software of Annex J
-146.  Annex J Software installation and configuration services
-145. Software included in the scope of the Services, made available to FAST SHOP by IBM 
-144. IBM will provide the Users Software Management Services with respect to all the 
-143. The Software constituting the object of this Appendix are those provided for in Annex J: 
-142.  The Management Services of Equipment and Software of 
-141. Equipment and Software of Users 
-140. Equipment and Software of Users
-139. 0 Equipment Management and User Software Services 
-138.  Update the Software / Hardware documentation 
-137.  Test fix in the Software / Hardware 
-136.  Apply software patches in the uncustomized code 
-135. Processing Center servers, including the backup software and 
-134. Installation services and configuration of packages / Software
-133. organic growth, for the software currently used  by the Fast Shop and 
-132. IBM will provide the Software licenses for Data Processing Center, including 
-131. respect to all the Software used in data processing activities  made available to FAST SHOP by IBM or by third 
-130. IBM will provide the Data Processing Software Management Services with 
-129. LIST OF SOFTWARE AND QUANTITIES 
-128. Softwares acquired by IBM, however with subscribing and support not renewed
-127. IBM Software licenses, and respective quantities, used by IBM for the provision of the 
-126. infrastructure, solutions, equipment, software, as per Annex A of the 
-125. perpetual software licenses are to be acquired by IBM directly on behalf of 
-124. to use the perpetual software licenses  acquired by IBM for the 
-123. new IBM software licenses used in the provision of the services, for the 
-122. software licenses acquired by IBM  after 12/31/2016 at the lowest price 
-121.  Specifically in what tange the IBM software, FAST SHOP will have the 
-120. 2016, as also all the remaining hardwares and software that find 
-119. respective maintenance costs and underwriting and support , including not only those hardwares and software 
-118. hardware and software it is using for provide the Services and their 
-117. software licenses, other than perpetual, that IBM acquire for the provision of the 
-116. software to tools that are to be used by IBM in place of those constants of 
-115. subscription and support of IBM software licenses  contained in the Book 
-114.  Apply software patches in the uncustomized code 
-113.  Administration of application software 
-112.  Software package configuration services 
-111. manufacturer of the Software, so that it offers a solution to the problem faced
-110. 10  licenses of the Software Watson Analytics
-109. Administration of the Software of applications
-108. Services of configuration of Software
-107. Specialized listening to Users as to tickets regarding Software and applications
-106. provided that such Software is found to be covered by the scope of this Agreement, 
-105. specified in Annex J , as well as for any other Software made available to 
-104. IBM will provide services of management of applications  for the Software 
-103. Seller Service Provider oversee IBM Facilities, IBM's Capabilities, Equipment, Software, 
-102. During the Transfer Assistance Period, IBM will provide the IBM Softwares necessary for 
-101. Software products of Third Parties
-100. For FAST SHOP title Software products, if any, operational within up to 12  
-99. of the Software products, Equipment as well as in the procedures including practical 
-98. providing support, including the Softwares described 
-97. IBM TIVOLI ENDPOINT MANAGER FOR SOFTWARE USE ANALYSIS 
-96. The relation below contains the Software products Licensed by IBM, currently used in 
-95.  Non-implemented Softwares-The implementation is not scope of this Agreement  
-94. The relation below contains the Software products Licensed by the FAST SHOP that are 
-93. Software Licensed by FAST SHOP  
-92. The relation below contains the Software products owned by FAST SHOP that are 
-91. other than those of the Software listed below, unless otherwise disposed of in another part 
-90. IBM, however, is not obligated to provide Software that perform categories of functions 
-89. Software below, by others performing the same categories of functions, IBM should do so, 
-88. The following relation specifies the Software required for scope fulfilment since Contract
-87. manage the Software indicated in this Annex J, in quantity and quality necessary for the 
-86. Software Licensed by FAST SHOP 
-85. The Parties acknowledge that certain Software and technical data exchanged in 
-84. or  use of Equipment or Software provided by FAST SHOP in environment other than 
-83. Any Claim concerning the use by IBM of any Equipment, Third Party Software, or Third 
-82. any disabling code that was already part of the Software or systems used in the provision of the 
-81. not enter into the Software or any systems used in the provision of the Services any code that 
-80. Use of Equipment or Software provided by IBM in environment other than its specified 
-79. all of the Software, Equipment, Materials, Independently Developed Materials, Items To 
-78. Period will end 60  days from the first execution of the Item to Be Entreg of Software in 
-77.  re-salvaged, however, that  in regard to Items to Be Delivered Software performed 
-76. recommendations of the representative of the Software, unless avance to the contrary of the 
-75. IBM declares, guarantees, and avickness that will keep the Equipment and Software covered by 
-74. SHOP, and  installing and operating audit software as required
-73. realization of the Services, including Places of the Services, Equipment, Software, and 
-72. representative of the software provider 
-71. OSS with the remaining systems and Software in use
-70. SHOP and / or its Beneficiaries of the Service by Linux and others open-source software 
-69. Any open source software  and Linux that IBM installs upon request from FAST 
-68. ""Materials"" means, jointly, Software, literary works, other works of authorship, 
-67. cooperation may cover the supply, to IBM, of the Equipment, Software, the FAST SHOP 
-66. to Equipment and Software used in the provision of the Services to the extent permitted 
-65. *** They cannot be accounted for Softwares on equipment that is found to be off
-64. accuracy will be given by the percentage of the equipment and software whose verified 
-63. inventory of the equipment and software used by FAST SHOP
-62. Description: Fear the percent accuracy of the equipment inventory and software used by 
-61. infrastructure costs, Software licences, maintenance, persons as per template 
-60. To continuously provide all the existing documentation of all the Software and 
-59. such as Software Express, are in the scope of IBM
-58. Software, acquired on the basis of the provisions of this Clause, provided that this is 
-57.  In this case, equipment / software 
-56. acquire the equipment and software object of this Clause, observed the categories 
-55. bilas/receipts notes regarding the equipment and software purchased in the month
-54. to purchase the said equipment or software together with the supplier of your choice
-53. The FAST SHOP will acquire the equipment and software that you intend, observed 
-52. adopt technical specifications for the equipment and software attaining to the goal of 
-51. software referred to in Clause 6
-50. equipment and software referred to in Clause 6
-49. 0 Annual Budget for Acquisition of Equipment and Software 
-48. Software and made available in two physically independent buildings on the IBM 
-47. IBM will make proactive surveys in stores once a year  to identify possible issues in the Equipments and Software
-46. of Equipment and Software described in Clausula 6
-45.  In the case of specific Software audits, 
-44. verification of all Software in operation in the scope of this Agreement 
-43. inventory of the Software used for the provision of the Services, upon physical 
-42. By group of licences relating to a same Software, indication of the initial balance of 
-41. Software of Third parties contracted by IBM specifically for FAST SHOP fulfillment 
-40. Individually as to each installed license, name, version and patch of the Software
-39. electronic list of Software it is using to provide the Services , whenever requested by FAST SHOP, or at 
-38. List of Softwares: from 2017, IBM is expected to deliver to FAST SHOP the updated 
-37. Future software: IBM will provide future IT Software licenses required to provide the 
-36.  The list of the types of existing Software in the Watch Date is 
-35.  IBM is expected to carry out the maintenance of these Software as 
-34. the existing IT Software licenses in the Watch Date as well as Software acquired as 
-33. Existing software: the FAST SHOP will hold the property and / or the right of use of 
-32. if the installed Software version prevents the quality of the FAST SHOP's work
-31. IBM is not required to keep up with the Software upgrades in its latest versions, save 
-30. of the Software of applications during the Deadline: 
-29. IBM will manage all the Software used by FAST SHOP and by itself in the interest of 
-28. the Appendices of this Annex, of all the Software used by FAST SHOP and by itself 
-27. will be the owner or perpetual license holder of the said Software
-26. Upon development of Software by IBM for FAST SHOP, in which case FAST SHOP 
-25. Upon employment, by IBM, of Software of your property or to it licensed, for the 
-24. IBM will acquire licenses from the required Software, in the required quantity, in favor 
-23. The fulfillment of IBM's obligations concerning Software will give itself under one of 
-22. justified objectively, the fulfillment of which requires the provision of Software
-21. IBM is obliged to make available Software so as to meet all operational needs of the 
-20. IBM will provide and maintain the IT application Software necessary to the fulfilment 
-19. 0 Software Applications Software 
-18. 0 Annual Budget for Acquisition of Equipment and Software 
-17. 0 Software Applications Software 
-16. secure tracking system,  6  days after the shipping day, if remitted by registered letter or 
-15. confidential and in a secure manner and shall protect them from the use or unauthorized 
-14. Assist IBM in the development / revision of the information security 
-13. consultation, creation and alteration to development environments, testing and 
-12. developments, inclusive transformation projects
-11. the IBM development tools set out in the Asset Registration Book by its 
-10.  Development, adaptation, maintenance, 
-9. Development services, adaptation, documentation, updating, maintenance and 
-8.  Change Management / Disclosure / Development 
-7. developments, guidelines and strategies
-6.  This provision shall not apply to developmental work carried 
-5. environments of FAST SHOP at IBM and the use of development tools and stress test 
-4. 0 Cost of Resource Allocation for Improvement Development 
-3. performance, development, including frequency of updating and blocking of 
-2. development and analysis of the Annual IT Services Plan
-1. Upon development of Software by IBM for FAST SHOP, in which case FAST SHOP 
+Is Container security in scope ?,"Pod,Cluster,Node,Kubernettes,Docker,Container,Container Security,",Yes,
+Is Patch Management in scope ?,"Application upgrade,security fixes,security advisories,patch advisories,Install a patch,Perform post deployment verification,Perform pre-deployment testing,Change Windows for implementing patches,Technical Upgrade,Vulnerability,Remediate,Flaw,Advisory,Patching,Patch,",yes,"19. Provide vulnerability scanning reports, which include:  scan result 
+18. Vulnerability Management Services  
+17. Some data may be changed temporarily as a result of the vulnerability poll
+16. and vulnerability assessment, if applicable, as described in this instrument and 
+15.  The FAST SHOP authorizes IBM to perform vulnerability scans 
+14. The FAST SHOP authorizes IBM to perform vulnerability scans and vulnerability 
+13. Implement virtual patches that provide active mode locking features 
+12. Evaluate IBM patch notifications and approve security patches for 
+11.   install appropriate patches within the security-changing 
+10. within 3  Working Days on security patches rated as high 
+9. IBM, IBM should:  monitor security patches
+8. Patch of Security and Integrity  
+7.  Provide the management of patches and distribution of Software
+6.  Prepare test criteria for patched applications 
+5.  Apply software patches in the uncustomized code 
+4.  Prepare test criteria for patched applications 
+3.  Apply software patches in the uncustomized code 
+2. Individually as to each installed license, name, version and patch of the Software
+1. Installation of patches and corrections as made available by suppliers
 "
-Is Endpoint Security in scope ?,Yes,"22. Assist the FAST SHOP in the licensing and acquisition of all the Equipment and 
-21. the loss resulted from violation by IBM of the applicable third party licensing contract, 
-20. the buyer or licensee uses the product in accordance with the licensing agreement
-19. and copyrights held by, and to the conditions of, any licensing agreements with the applicable 
-18. same time FAST SHOP is not entitled to use under its own licensing agreements with 
-17. estate or on real estate by it rented, and by licensing and franchise taxes on your 
-16. Individually as for each installed license, the indication of the licensing model 
-15. Monitor, manage, and configure IBM's protection agents
-14. Request configuration changes in the policy required to resolve 
-13. Carry out configuration changes to solve network connectivity issues 
-12. Monitor, manage, configure, and support network invasion detection 
-11. product updates from vendors / configuration update to servers and on 
-10.  Supply, installation and configuration of the equipment described in 
-9.  Install, move, discard, remove, transport, configure, swap, repose, 
-8.  Annex J Software installation and configuration services
-7.  The installation, movement, disposal, removal, transport, configuration, exchange, 
-6. Installation services and configuration of packages / Software
-5. The installation, handling, disposal, removal, transport, configuration, exchange, 
-4.  Software package configuration services 
-3. Services of configuration of Software
-2. assistance in the reconfiguration of the source code
-1. Individually as for each Equipment, the respective configuration
+Is Endpoint Security in scope ?,"workplace security,Training,Workstation,Laptop,Windows,Android,iPhone,iOS,Mobile,End point,End-point,Endpoint,",Yes,"21.  Participate in the process of validation, trainings and homologation 
+20. training where necessary, used in the provision of the Services
+19. personnel training of FAST SHOP
+18. Clause 11 , expenses related to travel, training costs, telephone and charges of 
+17. functional trainings in new solutions  
+16. the training and generated documentation
+15. Training for FAST SHOP staff is out of scope
+14.  Update the antivirus of the workstations
+13. Total amount of workstations of the park on the last day of the 
+12. Quantity of workstations in the Period of Medição
+11. Percentage of workstations with the last updated antivirus vaccine on 
+10.  Approve the necessary technical windows during the project 
+9. Changes in the dates of windows of changes in applications, previously agreed 
+8. Unavailability of infrastructure environment due to maintenance windows, 
+7. %Satisfation =       #UsuáriosSatisfeitos    * 100 
+6.  Provide support for smartphones, mobile phones and tablets for 
+5.  Provide support for smartphones, mobile phones and tablets for 
+4.  For the specific case of mobile phones and tablets, the Services provided for in this 
+3. IBM TIVOLI ENDPOINT MANAGER FOR SOFTWARE USE ANALYSIS 
+2. IBM TIVOLI ENDPOINT MANAGER FOR LIFECYCLE MANAGEMENT 
+1. IBM Endpoint Manager for Power Management 
 "

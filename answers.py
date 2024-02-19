@@ -42,9 +42,9 @@ audit_areas = []
 keywords = []
 sentences = []
 
-def addtoDataframe(questions,answers,source_documents):
+def addtoDataframe(questions,answers,source_documents,keywords):
 # Create a DataFrame (for example)
-    data = {'questions': questions,'answers': answers,'source_of_truth':source_documents}
+    data = {'questions': questions,'answers': answers,'keywords': keywords,'source_of_truth':source_documents}
     df = pd.DataFrame(data)
     df.to_csv('./answers/data.csv', index=False)
 
@@ -107,12 +107,12 @@ def predictAnswers():
         generated_response = model.generate_text(prompt)
         outputResults.append(generated_response)
         i=i+1
-    data = list(zip(audit_areas, outputResults, sentences))
+    data = list(zip(audit_areas,keywords, outputResults, sentences))
     
     csv_file_name = './answers/data.csv'
     with open(csv_file_name, 'w', newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
-        csv_writer.writerow(['Question', 'Answer', 'Proof'])
+        csv_writer.writerow(['Question','keywords', 'Answer', 'Proof'])
         csv_writer.writerows(data)
     print(f"CSV file '{csv_file_name}' has been created.")
 

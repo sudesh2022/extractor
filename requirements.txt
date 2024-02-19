@@ -24,6 +24,8 @@ filelock==3.13.1
 flatbuffers==23.5.26
 frozenlist==1.4.1
 fsspec==2023.12.2
+fitz==1.16.14
+frontend
 genai==2.1.0
 google-auth==2.26.1
 googleapis-common-protos==1.62.0
